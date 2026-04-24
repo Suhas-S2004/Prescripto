@@ -6,4 +6,4 @@ const DoctorsList = () => {
   )
 }
 
-export default DoctorsList
+export default DoctorsList 
