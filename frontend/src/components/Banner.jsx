@@ -25,4 +25,4 @@ const Banner = () => {
   )
 }
 
-export default Banne
+export default Banner
