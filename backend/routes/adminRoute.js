@@ -14,4 +14,4 @@ adminRouter.get('/appointments',authAdmin,appointmentsAdmin)
 adminRouter.post('/cancel-appointment',authAdmin,appointmentCancel)
 adminRouter.get('/dashboard',authAdmin,adminDashboard)
 
-export default adminRouter
+export default adminRoute
