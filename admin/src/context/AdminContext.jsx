@@ -119,4 +119,4 @@ const getDashData =async () =>{
     )
 }
 
-export default AdminContextProvide
+export default AdminContextProvider
